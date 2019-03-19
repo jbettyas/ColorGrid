@@ -1,0 +1,15 @@
+{
+  "main.css": "/ColorGrid/static/css/main.c9c16d4f.chunk.css",
+  "main.js": "/ColorGrid/static/js/main.5ae57a38.chunk.js",
+  "main.js.map": "/ColorGrid/static/js/main.5ae57a38.chunk.js.map",
+  "runtime~main.js": "/ColorGrid/static/js/runtime~main.8a738e7e.js",
+  "runtime~main.js.map": "/ColorGrid/static/js/runtime~main.8a738e7e.js.map",
+  "static/css/2.1b3c4fd9.chunk.css": "/ColorGrid/static/css/2.1b3c4fd9.chunk.css",
+  "static/js/2.b9f384f4.chunk.js": "/ColorGrid/static/js/2.b9f384f4.chunk.js",
+  "static/js/2.b9f384f4.chunk.js.map": "/ColorGrid/static/js/2.b9f384f4.chunk.js.map",
+  "index.html": "/ColorGrid/index.html",
+  "precache-manifest.80bf0e9d9ba812423a7632ab46adba9c.js": "/ColorGrid/precache-manifest.80bf0e9d9ba812423a7632ab46adba9c.js",
+  "service-worker.js": "/ColorGrid/service-worker.js",
+  "static/css/2.1b3c4fd9.chunk.css.map": "/ColorGrid/static/css/2.1b3c4fd9.chunk.css.map",
+  "static/css/main.c9c16d4f.chunk.css.map": "/ColorGrid/static/css/main.c9c16d4f.chunk.css.map"
+}
